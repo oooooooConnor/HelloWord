@@ -3,5 +3,5 @@
 int main() {
 
 	printf("Hello,Word!\n");
-	return0;
+	return 0;
 }
